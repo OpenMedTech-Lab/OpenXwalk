@@ -13,7 +13,7 @@
 - Dimention: <br/>
   <tab/> Width = 62 cm <br/>
   <tab/> Depth = 80 cm <br/>
-  <tab/> Height = 77 to 97 cm (sitting), 140cm (standing) <br/>
+  <tab/> Height = 77 cm (minimum), 97cm (maximum) <br/>
 - Weight: 27 kgm  <br/>
 - Required force: no need (Powered) <br/>
 - Safety features: <br/>
