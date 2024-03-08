@@ -5,8 +5,8 @@
 
 ### BACKGROUND:
 <P align="justify"> Children facing movement challenges due to conditions like cerebral palsy often encounter difficulties with walking and may experience feelings of exclusion. Exoskeleton walkers offer a potential solution by providing support for walking and aiding muscle movements. These devices are customizable for each child, potentially contributing to both physical improvement and cognitive development. Beyond the physical benefits, exoskeletons can enhance social interactions, fostering a sense of inclusion and happiness. Early intervention with these walkers may lead to improved long-term outcomes. However, the availability of such walkers is limited, and their cost is high. To address this, we've developed an open-source exoskeleton walker, aiming to make this technology accessible to children worldwide, promoting their well-being and ensuring they can enjoy life like everyone else!</P>
- ![Schematic_exos_2024-03-08](https://github.com/SHOVANPARVEZ/Exoskeleton-walker-/assets/140902671/5c433122-4708-4c7f-af41-ae1ec0f203fb)
 
+[exos](https://github.com/SHOVANPARVEZ/Exoskeleton-walker-/assets/140902671/fa5688d7-ce2c-4d96-b0f7-6af5851b0f37)
 
 
 ### SPECIFICATIONS:
