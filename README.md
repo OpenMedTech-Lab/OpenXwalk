@@ -11,17 +11,19 @@
 
 ### SPECIFICATIONS:
 - Dimention: <br/>
-  <tab/> Width = 70 cm <br/>
-  <tab/> Depth = 110 cm <br/>
-  <tab/> Height = 90 cm (sitting), 140cm (standing) <br/>
-- Weight: 25 kgm  <br/>
-- Required force: Low to Moderate (depending on user's weight) <br/>
+  <tab/> Width = 62 cm <br/>
+  <tab/> Depth = 80 cm <br/>
+  <tab/> Height = 77 to 97 cm (sitting), 140cm (standing) <br/>
+- Weight: 27 kgm  <br/>
+- Required force: no need (Powered) <br/>
 - Safety features: <br/>
   <tab/> Anti-sleep wheels <br/>
-  <tab/> Four wheels break <br/>
+  <tab/> Two wheels break <br/>
   <tab/> Knee guard <br/>
   <tab/> Chest belt <br/>
-  <tab/> Grounded footrest during standing <br/>
+  <tab/> seat support <br/>
+  <tab/> Hand rest <br/>
+  <tab/> Proper weight balance <br/>
   
 ### DESIGN:
 <P align="justify"> The standing wheelchair has nine major parts/components. Each of the parts/components are described in the following:
