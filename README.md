@@ -1,4 +1,4 @@
-# <P align="center"> StandingWheelchiar - An open design of an exoskeleton walker for children with movement disorders
+# <P align="center"> ExoskeletonWalker - An open design of an exoskeleton walker for children with movement disorders
  
 ### OBJECTIVES:
 <P align="justify"> The objective of the project was to design a low-cost exoskeleton walker for children with movement disorders caused by cerebral palsy 
