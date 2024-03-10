@@ -33,16 +33,19 @@
 
 
 ###
-- Back support: Conventional wheelchiar back support is use. In addition a chaise belt is attached to the back support to protect the user from falling during the transition to standing position from sitting position.
-- Link shaft: The seat and back support of the chair are held erect by link shafts as the chair transforms to the standing position.
-- Seat cusion: Conventional seat cusion is used. It does not pose any discomfort to the user either in sitting or standing position.
-- Gas spring: Nitrogen oxide gas springs are used to assist the wheelchair in transforming from sitting to standing position.
-- Back wheel: Typical wheels that are commonly found in the wheelchairs are used.
-- Knee guard: Another essential componet of our standing wheelchiar since it is designed for the users who have no strength in their legs. The knee guards prevent the knee from collapsing and help the users stand upright.
-- Base frame: The main frame of the wheelchair that holds every parts of the wheelchair together. Each part can be mounted and unmounted to the base frame which allows low repair costs.
-- Front wheel: Castor wheels are used in the front side of the wheelchair. They use a locking system to reduce the risk of the user from falling.
-- Footrest: This special footrest is used to support the user's feet while sitting and standing. During the transition from a sitting to a standing position, the footrest height changes to allow safe standing.
- 
+- Control box: The control box serves as the central hub for the exoskeleton walker, containing electronic components for controlling and coordinating its operation.
+- Arm support: Arm supports provide stability and assistance to the user's arms while operating the exoskeleton walker, ensuring comfort and ease of use.
+- Upper chassis: The upper chassis forms the upper framework of the exoskeleton, providing structural support and attachment points for various components.
+- Adjustable nuts: Adjustable nuts allow for fine-tuning and customization of the exoskeleton's fit and functionality, enabling adjustments to accommodate different users and preferences.
+- Lower chassis: The lower chassis forms the lower framework of the exoskeleton, supporting the user's lower body and providing stability during movement.
+- Caster wheel: The caster wheel provides stability and maneuverability to the exoskeleton walker, allowing for smooth and controlled movement on various surfaces.
+- Chest guard: The chest guard provides support and protection to the user's chest area, ensuring safety and stability during operation.
+- Motor mount: The motor mount securely holds the motors in place, ensuring proper alignment and functionality of the exoskeleton's actuation system.
+- Seat: The seat provides a comfortable and supportive platform for the user to sit on while using the exoskeleton walker, allowing for rest or transition between standing and sitting positions.
+- Motor shaft: The motor shaft transmits rotational motion from the motor to other components of the exoskeleton, such as gears or pulleys, enabling movement and actuation.
+- DOF servo motor: The degree of freedom (DOF) servo motor provides precise control and movement capabilities to specific joints or segments of the exoskeleton, allowing for natural and fluid motion.
+- Foot plate: The foot plate serves as the platform for the user's feet, providing stability and support during standing and walking movements, and helping to distribute weight evenly.
+- 
 ### DISCLAIMER:
 <P align="justify"> The design is offered as it is. Although it has been regorously tested by a number of paraplegic wheelchiar users, we do not provide any warranty in any aspect.
 
