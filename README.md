@@ -45,7 +45,7 @@
 - Motor shaft: The motor shaft transmits rotational motion from the motor to other components of the exoskeleton, such as gears or pulleys, enabling movement and actuation.
 - DOF servo motor: The degree of freedom (DOF) servo motor provides precise control and movement capabilities to specific joints or segments of the exoskeleton, allowing for natural and fluid motion.
 - Foot plate: The foot plate serves as the platform for the user's feet, providing stability and support during standing and walking movements, and helping to distribute weight evenly.
-- 
+  
 ### DISCLAIMER:
 <P align="justify"> The design is offered as it is. Although it has been regorously tested by a number of paraplegic wheelchiar users, we do not provide any warranty in any aspect.
 
