@@ -27,7 +27,7 @@
   <tab/> Proper weight balance <br/>
   
 ### DESIGN:
-<P align="justify"> The standing wheelchair has nine major parts/components. Each of the parts/components are described in the following:
+<P align="justify"> The ExoskeletonWalker has twelve major parts/components. Each of the parts/components are described in the following:
  
 ![walker](https://github.com/SHOVANPARVEZ/Exoskeleton-walker-/assets/140902671/cfccfbe4-32ca-4e93-8aaf-be0e438f4816)
 
