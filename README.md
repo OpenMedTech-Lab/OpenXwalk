@@ -29,7 +29,8 @@
 ### DESIGN:
 <P align="justify"> The standing wheelchair has nine major parts/components. Each of the parts/components are described in the following:
  
-![Block-Diagram](https://github.com/SHOVANPARVEZ/StandingWheelchair-manual/blob/main/Wheelchiar-components.png)
+![walker](https://github.com/SHOVANPARVEZ/Exoskeleton-walker-/assets/140902671/cfccfbe4-32ca-4e93-8aaf-be0e438f4816)
+
 
 ###
 - Back support: Conventional wheelchiar back support is use. In addition a chaise belt is attached to the back support to protect the user from falling during the transition to standing position from sitting position.
