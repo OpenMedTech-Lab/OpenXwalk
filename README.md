@@ -16,12 +16,11 @@
   <tab/> Width = 62 cm <br/>
   <tab/> Depth = 80 cm <br/>
   <tab/> Height = 77 cm (minimum), 97cm (maximum) <br/>
-- Weight: 27 kgm  <br/>
+- Weight: 27 kgm (Materials:Iron) <br/>
 - Required force: no need (Powered) <br/>
 - Safety features: <br/>
   <tab/> Anti-sleep wheels <br/>
   <tab/> Two wheels break <br/>
-  <tab/> Knee guard <br/>
   <tab/> Chest belt <br/>
   <tab/> seat support <br/>
   <tab/> Hand rest <br/>
@@ -45,7 +44,7 @@
 - Motor mount: The motor mount securely holds the motors in place, ensuring proper alignment and functionality of the exoskeleton's actuation system.
 - Seat: The seat provides a comfortable and supportive platform for the user to sit on while using the exoskeleton walker, allowing for rest or transition between standing and sitting positions.
 - Motor shaft: The motor shaft transmits rotational motion from the motor to other components of the exoskeleton, such as gears or pulleys, enabling movement and actuation.
-- DOF servo motor: The degree of freedom (DOF) servo motor provides precise control and movement capabilities to specific joints or segments of the exoskeleton, allowing for natural and fluid motion.
+- Actuator: The actuator provides precise control and movement capabilities to specific joints or segments of the exoskeleton, allowing for natural and fluid motion.
 - Foot plate: The foot plate serves as the platform for the user's feet, providing stability and support during standing and walking movements, and helping to distribute weight evenly.
   
 ### DISCLAIMER:
