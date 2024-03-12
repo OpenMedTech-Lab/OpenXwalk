@@ -30,7 +30,8 @@
 ### DESIGN:
 <P align="justify"> The ExoskeletonWalker has twelve major parts/components. Each of the parts/components are described in the following:
  
-![Schematic_exos-plant_2024-03-10 (1)](https://github.com/SHOVANPARVEZ/Exoskeleton-walker-/assets/140902671/3d99535b-8020-4901-843c-687736276c71)
+
+![Schematic_exos-plant_2024-03-12](https://github.com/SHOVANPARVEZ/Exoskeleton-walker-/assets/140902671/87f8fb77-3fca-4910-97eb-8cf9943ef468)
 
 
 ###
