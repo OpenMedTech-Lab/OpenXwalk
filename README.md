@@ -48,7 +48,7 @@
 - Foot plate: The foot plate serves as the platform for the user's feet, providing stability and support during standing and walking movements, and helping to distribute weight evenly.
   
 ### DISCLAIMER:
-<P align="justify"> The design is offered as it is. Although it has been regorously tested by a number of paraplegic wheelchiar users, we do not provide any warranty in any aspect.
+<P align="justify"> The design is offered as it is. Although it has been regorously tested, we do not provide any warranty in any aspect.
 
 ### WARNING:
 - The device is intended stricktly for research and education purposes.
